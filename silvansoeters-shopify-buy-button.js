@@ -306,8 +306,7 @@
           "outline": "none"
         },
         ":hover": {
-          "color": "#b9b9b9",
-          "transform": "none"
+          "transform": "scale(0.9)"
         },
         "color": "#333333",
         "top": "2px"
